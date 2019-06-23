@@ -31,4 +31,17 @@
     pip install opencv-python
     
     ```
+10. Now clone this repository
+11. Open the folder & go to the object_detection folder . Then copy the path.
+12. Write cd and paste the location. My one is look like this ->
+   
+    `cd J:\prapti\tensorflow3\models\research\object_detection'
+13. Now write
     
+    `idle`
+
+#### This will open a python shell
+14. Now click on File & open object_detection_image.py
+15. Finally click run then click run module
+
+After a minute it will open an detecteted image.
