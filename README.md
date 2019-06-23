@@ -7,9 +7,22 @@
  2. After Installing it please search conda file location under the Scripts Folder. Then copy the file location.
  3. Search for Environment variable in your pc. From system properties go to the Environment variable.
  4. Then double click on the bellow box path. like this-
+ 
     <img src="https://github.com/ummerubaiyat/face_detction/blob/master/doc/2.PNG">
+    
  5. Now click new, then pest your coppied conda path. Then press OK.
  6. After your conda path is set up. Next search anaconda prompt on your pc & run it as an administrator.
  7. Please write this command bellow
  
     `conda create -n tensorflow pip python=3.6`
+ 8. Type y and press Enter
+   
+    <img src="https://github.com/ummerubaiyat/face_detction/blob/master/doc/3.PNG">
+    
+ 9. now write
+ 
+    `activate tensorflow`
+    ` pip install tensorflow`
+    `pip install pillow`
+    `pip install matplotlib`
+    
