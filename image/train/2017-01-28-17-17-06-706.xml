@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>2017-01-28-17-17-06-706.jpg</filename>
+	<path>F:\MONOS\AI\tensorflow3\dataset\test\New folder\2017-01-28-17-17-06-706.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>421</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manoj</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>52</ymin>
+			<xmax>535</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

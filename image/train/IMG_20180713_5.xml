@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>IMG_20180713_5.jpg</filename>
+	<path>F:\MONOS\AI\tensorflow3\dataset\train\New folder\IMG_20180713_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1330</width>
+		<height>887</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Umme Rubaiyat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>58</ymin>
+			<xmax>885</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
