@@ -11,4 +11,5 @@
  5. Now click new, then pest your coppied conda path. Then press OK.
  6. After your conda path is set up. Next search anaconda prompt on your pc & run it as an administrator.
  7. Please write this command bellow
-    'conda create -n tensorflow pip python=3.6'
+ 
+    `conda create -n tensorflow pip python=3.6`
