@@ -21,8 +21,14 @@
     
  9. now write
  
-    `activate tensorflow`
-    ` pip install tensorflow`
-    `pip install pillow`
-    `pip install matplotlib`
+    ```
+    activate tensorflow
+    pip install tensorflow
+    pip install pillow
+    pip install matplotlib
+    pip install lxml
+    pip install jupyter notebook
+    pip install opencv-python
+    
+    ```
     
