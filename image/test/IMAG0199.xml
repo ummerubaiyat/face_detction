@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>IMAG0199.jpg</filename>
+	<path>F:\MONOS\AI\tensorflow3\dataset\test\New folder\IMAG0199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1704</width>
+		<height>970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Umme Rubaiyat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>561</ymin>
+			<xmax>1011</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>
