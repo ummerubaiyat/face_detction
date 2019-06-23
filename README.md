@@ -45,3 +45,5 @@
 15. Finally click run then click run module
 
 After a minute it will open an detecteted image.
+
+<img src="https://github.com/ummerubaiyat/face_detction/blob/master/doc/4.PNG">
